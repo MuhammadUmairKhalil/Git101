@@ -4,8 +4,7 @@ We are in the git hub session
 # # indexing
 
 # In[1]:
-
-
+Today session is very boring
 # make a string
 a= "Samosa,Pakoda"
 a
